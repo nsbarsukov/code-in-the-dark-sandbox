@@ -1,0 +1,8 @@
+:root {
+    --black: #21201F;
+    --yellow: #F7D900;
+}
+
+h1 {
+    color: var(--yellow);
+}
